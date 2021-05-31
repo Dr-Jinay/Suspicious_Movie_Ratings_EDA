@@ -6,7 +6,7 @@ If you are planning on going out to see a movie, how well can you trust online r
 
 ### Goal:
 
-**The goal is to complete the tasks below based off the 538 article and see if you reach a similar conclusion. You will need to use your pandas and visualization skills to determine if Fandango's ratings in 2015 had a bias towards rating movies better to sell more tickets.**
+**The goal is to explore the data to get insights to see if you reach a similar conclusion. You have to find out if Fandango's ratings in 2015 were bias towards movies to sell more tickets.**
 
 ### The Data:
 
